@@ -1,5 +1,5 @@
 # Hello mr boneville i dont know if you are reading the code but yes i wrote this
-# I decided instead of making a mediocre Pixel Art I would do this :)
+# I decided instead of making a mediocre image of a dime I would do this :)
 
 print("hello world")
 
