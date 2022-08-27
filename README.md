@@ -1,6 +1,9 @@
 # Binary Sampler
 Takes in an image, then copies it to keyboard in binary form
 
+Commandline arguments: python main.py filename -bw/-c (black and white or color )
+eg. python main.py cat.jpg -c
+
 # TO TEACHER:
 Dear Mr. Bonneville,
 
